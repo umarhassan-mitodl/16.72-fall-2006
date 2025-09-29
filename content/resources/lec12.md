@@ -6,6 +6,8 @@ description: Lecture slides on controller training and labor issues, air traffic
 file: /courses/16-72-air-traffic-control-fall-2006/a94235458393be579d2da2a03bfb05b6_lec12.pdf
 file_size: 1668280
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,14 +8,14 @@ ocw_type: CourseSection
 title: Readings
 uid: 7b033255-e414-dbb9-fd2a-256da42da08f
 ---
-Air Traffic Control: Complete and Enforced Architecture Needed for Federal Aviation Administration Systems Modernization. ({{% resource_link "63c4d116-2764-408f-8ff3-869e7e117b0d" "PDF - 3.4 MB" %}})
+Air Traffic Control: Complete and Enforced Architecture Needed for Federal Aviation Administration Systems Modernization. ([PDF - 3.4 MB](http://www.gao.gov/archive/1997/ai97030.pdf))
 
-United States Frequency Allocations - The Radio Spectrum. ({{% resource_link "3ee8f1fc-eade-4ddc-9fa4-4d0f8705a322" "PDF" %}})
+United States Frequency Allocations - The Radio Spectrum. ([PDF](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf))
 
-Concept of Operations for the Next Generation Air Transportation System. ({{% resource_link "39747e0d-036d-4057-9263-284ed93a3c8e" "PDF - 2.6 MB" %}})
+Concept of Operations for the Next Generation Air Transportation System. ([PDF - 2.6 MB](https://www.hsdl.org/?abstract&did=747519))
 
-Single European Sky Air Traffic Management Research. ({{% resource_link "4c8b263a-1e84-47d0-afbb-522b4511ad22" "PDF - 2.9 MB" %}})
+Single European Sky Air Traffic Management Research. ([PDF - 2.9 MB](http://www.atmseminar.org/seminarContent/seminar7/media/pdf/Tytgat.pdf))
 
-NGATS Concept Brief. ({{% resource_link "78aa1605-f5cc-43ca-928f-ea58c3cc1fc4" "PDF" %}})
+NGATS Concept Brief. ([PDF](https://www.ral.ucar.edu/general/vision05/bee_overview.pdf))
 
-NGATS Operational Improvement Roadmap. ({{% resource_link "16eb2bcd-5c9a-488e-b86a-b4e3413f4877" "XLS" %}})
+NGATS Operational Improvement Roadmap. ([XLS](http://web.archive.org/web/20060728223349/http://www.aiaa.org/Participate/Uploads/NGATS%20O.I.%20Roadmap%28060427%29.xls))

@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section contains the course description, grading information,
   and other useful resources.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,10 +30,10 @@ There will be a brief (~3-5 minutes) mid-term presentation and a longer (~10-15 
 Useful Resources
 ----------------
 
-Reference material from the Joint Planning and Development Office can be found at {{% resource_link "14a9808d-7239-4c31-95d1-b8d27eb0a907" "Next Generation Air Transportation System" %}}.
+Reference material from the Joint Planning and Development Office can be found at [Next Generation Air Transportation System](https://www.transportation.gov/testimony/benefits-next-generation-air-transportation-system).
 
-Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. ({{% resource_link "499b9e56-e38c-43c3-85d8-97b13fc0b97b" "PDF" %}})
+Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. ([PDF](http://www.mitrecaasd.org/library/general/nas_oep_ppt.pdf))
 
-Reference material for European Air Traffic Management can be linked from {{% resource_link "61d8de94-e073-4cc2-a300-177e04800cd6" "Eurocontrol" %}}.
+Reference material for European Air Traffic Management can be linked from [Eurocontrol](https://www.eurocontrol.int/about-us).
 
-Another good reference site is the FAA Eurocontrol {{% resource_link "a253f551-4c9b-4a02-938a-d3ba3e45d12f" "ATM Seminar" %}} Series containing archived papers.
+Another good reference site is the FAA Eurocontrol [ATM Seminar](http://www.atmseminar.org/) Series containing archived papers.

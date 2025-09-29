@@ -4,6 +4,8 @@ description: Lecture slides on basic procedures in air traffic management.
 file: /courses/16-72-air-traffic-control-fall-2006/4898382c23f3141384bf93934b9575a5_lec3.pdf
 file_size: 716391
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

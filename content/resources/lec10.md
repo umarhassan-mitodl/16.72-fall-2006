@@ -5,6 +5,8 @@ description: Lecture slides on system wide modeling, introduction to the JPDO, N
 file: /courses/16-72-air-traffic-control-fall-2006/0debf5a161a8cae60ab9d5a78ad036e7_lec10.pdf
 file_size: 3567115
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
