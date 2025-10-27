@@ -28,10 +28,10 @@ There will be a brief (~3-5 minutes) mid-term presentation and a longer (~10-15 
 Useful Resources
 ----------------
 
-Reference material from the Joint Planning and Development Office can be found at [Next Generation Air Transportation System](https://www.transportation.gov/testimony/benefits-next-generation-air-transportation-system).
+Reference material from the Joint Planning and Development Office can be found at {{% resource_link "e1f8963c-b767-42de-90aa-c9d8b70864c8" "Next Generation Air Transportation System" %}}.
 
-Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. ([PDF](http://www.mitrecaasd.org/library/general/nas_oep_ppt.pdf))
+Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. ({{% resource_link "63acf863-4ec8-4ae9-bf84-b8d079f0d16f" "PDF" %}})
 
-Reference material for European Air Traffic Management can be linked from [Eurocontrol](https://www.eurocontrol.int/about-us).
+Reference material for European Air Traffic Management can be linked from {{% resource_link "4dc90cc8-b5a6-4fa7-b8ff-7629ad1b9a66" "Eurocontrol" %}}.
 
-Another good reference site is the FAA Eurocontrol [ATM Seminar](http://www.atmseminar.org/) Series containing archived papers.
+Another good reference site is the FAA Eurocontrol {{% resource_link "eff755ad-787b-4e52-ac65-b02732e2701e" "ATM Seminar" %}} Series containing archived papers.
