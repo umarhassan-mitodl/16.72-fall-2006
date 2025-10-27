@@ -4,8 +4,6 @@ description: Lecture slides on oceanic and international air traffic control (AT
 file: /courses/16-72-air-traffic-control-fall-2006/e98a14ea4df7a43b7de76d9821f52147_lec8.pdf
 file_size: 3347189
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

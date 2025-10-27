@@ -4,8 +4,6 @@ description: Lecture slides with an overview of air traffic control.
 file: /courses/16-72-air-traffic-control-fall-2006/25032d6f23298c5c2c8596d16b3e45fb_lec1.pdf
 file_size: 2510031
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

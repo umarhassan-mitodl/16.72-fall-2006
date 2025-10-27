@@ -5,8 +5,6 @@ description: Lecture slides on European AIS database portfolio analysis, and dep
 file: /courses/16-72-air-traffic-control-fall-2006/003c3fa63781b5304cf73a406a812706_lec11.pdf
 file_size: 312788
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

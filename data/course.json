@@ -32,7 +32,6 @@
     "website": "16-72-air-traffic-control-fall-2006"
   },
   "course_title": "Air Traffic Control",
-  "hide_download": true,
   "course_description": "This course introduces the various aspects of present and future Air Traffic Control systems. Among the topics in the present system that we will discuss are the systems-analysis approach to problems of capacity and safety, surveillance, including the National Airspace System and Automated Terminal Radar Systems, navigation subsystem technology, aircraft guidance and control, communications, collision avoidance systems and sequencing and spacing in terminal areas. The class will then talk about future directions and development and have a critical discussion of past proposals and of probable future problem areas.\n",
   "department_numbers": [
     "16"
@@ -43,7 +42,6 @@
     "content": "1e02f99d-070a-1565-469d-3faa629e1d1c",
     "website": "16-72-air-traffic-control-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

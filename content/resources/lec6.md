@@ -5,8 +5,6 @@ description: This file is a resource which contains information on topics like R
 file: /courses/16-72-air-traffic-control-fall-2006/876c1f8ffe559ebf7599ab3a07c87554_lec6.pdf
 file_size: 1177236
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
